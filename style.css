@@ -1,0 +1,14 @@
+ul > li
+{
+   color: dodgerblue; 
+}
+
+/* li > ul > li
+{
+    color: tomato;
+} */
+
+li li 
+{
+    color: tomato;
+}
